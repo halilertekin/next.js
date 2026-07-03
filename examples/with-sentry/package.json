@@ -12,13 +12,13 @@
     "@sentry/integrations": "^5.0.3",
     "@zeit/next-source-maps": "0.0.4-canary.1",
     "cookie-parser": "1.4.4",
-    "express": "^4.16.4",
-    "js-cookie": "2.2.0",
+    "express": "^5.2.1",
+    "js-cookie": "3.0.7",
     "next": "latest",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "sentry-testkit": "^2.1.0",
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.1"
   },
   "license": "ISC"
 }
